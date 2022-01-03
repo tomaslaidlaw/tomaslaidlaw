@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomaslaidlaw
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning cibersecurity
+- 🌱 I’m currently learning cybersecurity
 
 <!---
 tomaslaidlaw/tomaslaidlaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
