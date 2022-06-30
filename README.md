@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomaslaidlaw
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning NodeJs
-- Here is my landing page tomaslaidlaw.github.io
+- For more info, here is my landing page tomaslaidlaw.github.io
 
 <!---
 tomaslaidlaw/tomaslaidlaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
